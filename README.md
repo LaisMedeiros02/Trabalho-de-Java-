@@ -1,5 +1,6 @@
 # Trabalho de Java
-Trabalho da Materia Java POO Realizado pelos Alunos:  
+Trabalho da Materia Java POO Realizado pelos Alunos: 
+
 Arthur Motta Cumming - 202303532946 
 Laís Medeiros Costa Gonçalves - 202308705301 
 Letícia Medeiros Costa Gonçalves - 202308705296 
